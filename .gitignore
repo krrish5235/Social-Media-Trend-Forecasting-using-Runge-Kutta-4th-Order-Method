@@ -1,0 +1,18 @@
+# secrets and local state
+.env
+data/*.db
+data/*.db-*
+!data/.gitkeep
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# node / editors / OS
+node_modules/
+.idea/
+.vscode/
+.DS_Store

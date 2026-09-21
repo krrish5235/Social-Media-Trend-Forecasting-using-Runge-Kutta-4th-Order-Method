@@ -1,4 +1,0 @@
-Flask
-transformers
-google-api-python-client
-torch
